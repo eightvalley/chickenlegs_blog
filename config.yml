@@ -50,6 +50,6 @@ params:
  ShowCodeCopyButtons: true
  ShowToc: true
  TocOpen: false
- # comments: false
+ comments: true
 
 disqusShortname: "chickenlegs-cc"

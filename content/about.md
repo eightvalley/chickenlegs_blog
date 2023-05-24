@@ -4,9 +4,10 @@ url: "/about/"
 summary: about
 
 params:
-ShowReadingTime: false
-ShowBreadCrumbs: false
-disqus: false
+ ShowReadingTime: false
+ ShowBreadCrumbs: false
+ Comments: false
+
 ---
 
 Ciao ciao sono pilippo pilippo
