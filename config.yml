@@ -1,0 +1,55 @@
+
+baseURL: "https://chickenlegs.cc"
+languageCode: en-us
+title: CHICKENLEGS
+paginate: 5
+theme: PaperMod
+
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10      
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 20
+    - identifier: about
+      name: About me
+      url: /about/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+  cover:
+    linkFullImages: false
+params:         
+ defaultTheme: auto
+ disableThemeToggle: true
+ ShowShareButtons: false
+ # disableSpecial1stPost: true
+ displayFullLangName: true
+ ShowPostNavLinks: true
+ ShowBreadCrumbs: true
+ ShowCodeCopyButtons: true
+ ShowToc: true
+ TocOpen: false
+ # comments: false
+
+disqusShortname: "chickenlegs-cc"
