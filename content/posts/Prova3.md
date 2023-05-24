@@ -13,6 +13,7 @@ cover:
 
 tags: ["training", "tcc"] 
 categories: ["cycling"] 
+comments: true
 ---
 
 # Questo e' il titolo principale 
