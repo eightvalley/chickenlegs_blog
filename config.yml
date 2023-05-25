@@ -1,15 +1,7 @@
-
 baseURL: "https://chickenlegs.cc"
 languageCode: en-us
 title: CHICKENLEGS
-paginate: 5
 theme: PaperMod
-
-
-minify:
-    disableXML: true
-    # minifyOutput: true
-
 
 menu:
   main:
@@ -42,9 +34,8 @@ params:
 params:         
  defaultTheme: auto
  disableThemeToggle: true
- ShowShareButtons: false
  # disableSpecial1stPost: true
- displayFullLangName: true
+ displayFullLangName: false
  ShowPostNavLinks: true
  ShowBreadCrumbs: true
  ShowCodeCopyButtons: true
@@ -56,8 +47,8 @@ disqusShortname: "chickenlegs-cc"
 
 params:
   assets:
-    favicon: "/favicon.ico"
-    favicon16x16:  "/favicon-16x16.png"
-    favicon32x32:  "/favicon-32x32.png"
-    apple_touch_icon:  "/apple-touch-icon.png"
-    safari_pinned_tab:  "/safari-pinned-tab.svg"
+    favicon: "/favicon/favicon.ico"
+    favicon16x16:  "/favicon/favicon-16x16.png"
+    favicon32x32:  "/favicon/favicon-32x32.png"
+    apple_touch_icon:  "/favicon/apple-touch-icon.png"
+    safari_pinned_tab:  "/favicon/safari-pinned-tab.svg"
