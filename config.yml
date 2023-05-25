@@ -33,7 +33,6 @@ params:
     linkFullImages: false
 params:         
  defaultTheme: auto
- disableThemeToggle: true
  # disableSpecial1stPost: true
  displayFullLangName: false
  ShowPostNavLinks: true
