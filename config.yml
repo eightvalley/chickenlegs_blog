@@ -30,6 +30,7 @@ params:
  #comments: true
  disableThemeToggle: true
  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+ #hideSummary: true
 
 
 menu:
