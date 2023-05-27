@@ -1,13 +1,13 @@
 ---
 title: "Template"
 date: 2023-05-23T15:20:42+02:00
-draft: true
-cover:
- image: images/icelandLow.jpg
+draft: false
+
+image: images/icelandLow.jpg
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
- alt: "Questa e' un immagine di una spiaggia Islandese"
- caption: "Islanda" 
+alt: "Questa e' un immagine di una spiaggia Islandese"
+caption: "Islanda" 
  #relative: false # when using page bundles set this to true
  #hidden: false 
 
@@ -29,6 +29,9 @@ comments: true
 - [ ] Contact the media
 
 ## Questo e' il titolo seconario del titolo principale
+
+![islanda](/images/icelandLow.jpg#center)
+
 
 Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."

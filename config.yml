@@ -30,20 +30,18 @@ outputs:
 
 disqusShortname: "chickenlegs-cc"
 
-params:
-  cover:
-    linkFullImages: false
-  assets:
-    favicon: "/favicon/favicon.ico"
-    favicon16x16:  "/favicon/favicon-16x16.png"
-    favicon32x32:  "/favicon/favicon-32x32.png"
-    apple_touch_icon:  "/favicon/apple-touch-icon.png"
-    safari_pinned_tab:  "/favicon/safari-pinned-tab.svg"
-defaultTheme: auto
-displayFullLangName: false
-ShowPostNavLinks: true
-ShowBreadCrumbs: true
-ShowCodeCopyButtons: true
-ShowToc: true
-TocOpen: false
-#comments: true   
+params:  
+ assets:
+   favicon: "/favicon/favicon.ico"
+   favicon16x16:  "/favicon/favicon-16x16.png"
+   favicon32x32:  "/favicon/favicon-32x32.png"
+   apple_touch_icon:  "/favicon/apple-touch-icon.png"
+   safari_pinned_tab:  "/favicon/safari-pinned-tab.svg" 
+ 
+ ShowCodeCopyButtons: true
+ ShowToc: true
+ TocOpen: false
+ ShowBreadCrumbs: true
+ ShowPostNavLinks: true
+ defaultTheme: auto
+ #comments: true
