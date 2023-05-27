@@ -1,7 +1,7 @@
 ---
-title: "Prova3"
+title: "Template"
 date: 2023-05-23T15:20:42+02:00
-draft: false
+draft: true
 cover:
  image: images/icelandLow.jpg
   # can also paste direct link from external site
@@ -15,6 +15,10 @@ tags: ["training", "tcc"]
 categories: ["cycling"] 
 comments: true
 ---
+
+```
+ Use in your Markdown file
+```
 
 # Questo e' il titolo principale 
 
