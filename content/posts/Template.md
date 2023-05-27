@@ -1,19 +1,25 @@
 ---
 title: "Template"
 date: 2023-05-23T15:20:42+02:00
+author: ["Author_Name"]
+tags: ["training", "tcc"] 
+categories: ["cycling"]
 draft: false
+comments: true
+# weight: 1
+# aliases: ["/first"]
+#searchHidden: true #To hide a particular page from being searched
 
-image: images/icelandLow.jpg
+cover:
+ image: images/icelandLow.jpg
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-alt: "Questa e' un immagine di una spiaggia Islandese"
-caption: "Islanda" 
+ alt: "Questa e' un immagine di una spiaggia Islandese"
+ caption: "" 
  #relative: false # when using page bundles set this to true
- #hidden: false 
+ hidden: false 
 
-tags: ["training", "tcc"] 
-categories: ["cycling"] 
-comments: true
+
 ---
 
 ```
