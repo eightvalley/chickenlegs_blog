@@ -4,7 +4,7 @@ date: 2023-05-23T15:20:42+02:00
 author: ["Author_Name"]
 tags: ["training", "tcc"] 
 categories: ["cycling"]
-draft: false
+draft: true
 comments: true
 # weight: 1
 # aliases: ["/first"]
@@ -36,7 +36,8 @@ cover:
 
 ## Questo e' il titolo seconario del titolo principale
 
-![islanda](/images/icelandLow.jpg#center)
+![Center](/images/icelandLow.jpg#center)
+
 
 
 Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
