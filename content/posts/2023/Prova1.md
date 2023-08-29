@@ -2,7 +2,7 @@
 title: "October"
 date: 2023-05-23T15:17:11+02:00
 draft: false
-comments: true
+comments: false
 ---
 
 
