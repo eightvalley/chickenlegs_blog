@@ -20,7 +20,7 @@ params:
    favicon32x32:  "/favicon/favicon-32x32.png"
    apple_touch_icon:  "/favicon/apple-touch-icon.png"
    safari_pinned_tab:  "/favicon/safari-pinned-tab.svg" 
- 
+ ShowReadingTime: true
  ShowCodeCopyButtons: true
  ShowToc: true
  TocOpen: false
