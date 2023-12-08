@@ -6,7 +6,6 @@ author: ["Nome Autore"]
 tags: ["first"]
 draft: false
 comments: true
-description: "Desc Text."
 # weight: 1
 # aliases: ["/first"]
 #searchHidden: true #To hide a particular page from being searched
