@@ -24,7 +24,7 @@ cover:
 
 
 ```
- Use in your Markdown file
+ Scrivi il codice qui
 ```
 
 # Questo e' il titolo principale 
