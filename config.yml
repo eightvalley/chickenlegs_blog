@@ -12,10 +12,6 @@ enableEmoji: true
 pygmentsUseClasses: true
 googleAnalytics: UA-123-45
 
-params:
-  assets:
-    disableHLJS: true
-
 minify:
   disableXML: true
   minifyOutput: true
@@ -38,6 +34,7 @@ params:
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: true
     ShowToc: true
+    hideSummary: true
     # comments: false 
 
 
