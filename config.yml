@@ -36,19 +36,19 @@ params:
 menu:
   main:
     - identifier: archives
-      name: Archives
+      name: 🗄️Archives
       url: /archives/
       weight: 20
     - identifier: about
-      name: About me
+      name: 🤷🏻‍♂️About me
       url: /about/
       weight: 30
     - identifier: search
-      name: Search
+      name: 🔎Search
       url: /search/
       weight: 40
     - identifier: tags
-      name: Tags
+      name: 🏷️Tags
       url: /tags/
       weight: 50
 
