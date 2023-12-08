@@ -54,7 +54,7 @@ menu:
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 5
+      weight: 50
 
 outputs:
     home:
