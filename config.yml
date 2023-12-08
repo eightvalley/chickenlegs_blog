@@ -51,8 +51,9 @@ menu:
       name: Search
       url: /search/
       weight: 40
+      - identifier: tags
       - name: Tags
-      url: tags/
+      url: /tags/
       weight: 5
 
 outputs:
