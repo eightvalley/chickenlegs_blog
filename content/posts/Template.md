@@ -5,7 +5,7 @@ description: "Blablabla"
 author: ["Nome Autore"]
 tags: ["first", "second", "third"]
 draft: false
-comments: true
+comments: false
 # weight: 1
 # aliases: ["/first"]
 #searchHidden: true #To hide a particular page from being searched
