@@ -30,7 +30,7 @@ params:
  ShowCodeCopyButtons: true
  ShowToc: true
  TocOpen: false
- ShowBreadCrumbs: true
+ ShowBreadCrumbs: false
  ShowPostNavLinks: true
  defaultTheme: auto
  #comments: true
