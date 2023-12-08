@@ -1,8 +1,15 @@
 baseURL: "https://chickenlegs.cc"
 languageCode: en-us
-title: CHICKENLEGS🍗
+title: CHICKENLEGS
 theme: PaperMod
 
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
 googleAnalytics: UA-123-45
 
 params:
