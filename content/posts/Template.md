@@ -11,7 +11,7 @@ comments: false
 #searchHidden: true #To hide a particular page from being searched
 ShowReadingTime: true
 ShowBreadCrumbs: false
-
+hideSummary: true
 cover:
  image: images/icelandLow.jpg
   # can also paste direct link from external site
