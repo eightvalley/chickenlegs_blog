@@ -3,7 +3,7 @@ title: "Template"
 date: 2023-05-23T15:17:11+02:00
 description: "Blablabla"
 author: ["Nome Autore"]
-tags: ["first"]
+tags: ["first", "second", "third"]
 draft: false
 comments: true
 # weight: 1
