@@ -9,9 +9,8 @@ comments: true
 # weight: 1
 # aliases: ["/first"]
 #searchHidden: true #To hide a particular page from being searched
-params:
- ShowReadingTime: true
- ShowBreadCrumbs: false
+ShowReadingTime: true
+ShowBreadCrumbs: false
 
 cover:
  image: images/icelandLow.jpg
