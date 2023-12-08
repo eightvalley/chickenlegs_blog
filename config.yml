@@ -2,7 +2,7 @@ baseURL: "https://chickenlegs.cc"
 languageCode: en-us
 title: CHICKENLEGS
 theme: PaperMod
-description: sdgjklhgadfbjhbadfhk
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
@@ -35,6 +35,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     hideSummary: true
+    description: sdgjklhgadfbjhbadfhk
     # comments: false 
 
 
