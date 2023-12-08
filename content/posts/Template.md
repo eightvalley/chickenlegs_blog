@@ -4,7 +4,7 @@ date: 2023-05-23T15:17:11+02:00
 description: "Blablabla"
 author: ["Nome Autore"]
 tags: ["first"]
-draft: true
+draft: false
 comments: true
 description: "Desc Text."
 # weight: 1
