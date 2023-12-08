@@ -52,8 +52,8 @@ menu:
       url: /search/
       weight: 40
       - name: Tags
-                  url: tags/
-                  weight: 10
+      url: tags/
+      weight: 5
 
 outputs:
     home:
