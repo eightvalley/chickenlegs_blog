@@ -16,21 +16,7 @@ minify:
   disableXML: true
   minifyOutput: true
 
-params:
-    defaultTheme: auto
-    disableThemeToggle: false
-    ShowShareButtons: true
-    ShowReadingTime: true
-    # disableSpecial1stPost: true
-    displayFullLangName: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: true
-    ShowToc: true
-    hideSummary: true
-    # comments: false 
-     
+
 assets:
     favicon: "/favicon/favicon.ico"
     favicon16x16: "/favicon/favicon-16x16.png"
